@@ -1,0 +1,11 @@
+paths:
+  cv_folder: "./cvs"
+  criteria_file: "./criteria.txt"
+  output_folder: "./output"
+
+openai:
+  model: "gpt-4o"
+  #max_tokens: 1000
+
+processing:
+  top_candidates: 5 
