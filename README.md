@@ -65,6 +65,7 @@ The tool generates two CSV files in the output folder:
 
 ## Project Structure
 
+```bash
 talentscouter/
 ├── config/
 │ └── config.yaml
@@ -77,6 +78,7 @@ talentscouter/
 ├── poetry.lock
 ├── pyproject.toml
 └── README.md
+```
 
 ## Development
 
